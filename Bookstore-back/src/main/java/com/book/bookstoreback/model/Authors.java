@@ -51,7 +51,7 @@ public class Authors {
         return booksList;
     }
 
-    public void setRecipeList(List<Books> booksList) {
+    public void setBookList(List<Books> booksList) {
         this.booksList = booksList;
     }
 
