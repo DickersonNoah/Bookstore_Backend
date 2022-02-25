@@ -1,5 +1,7 @@
 package com.book.bookstoreback.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
 import javax.persistence.*;
 
 @Entity
@@ -17,29 +19,22 @@ public class Books {
     private String title;
 
     @Column(name = "In_Stock")
-    private Integer inSock;
+    private Integer inStock;
 
-
+    @JsonIgnore
     @ManyToOne
     @JoinColumn(name = "authors_id")
     private Authors authors;
 
-    public Authors getAuthors() {
-        return authors;
-    }
-
-    public void setAuthors(Authors authors) {
-        this.authors = authors;
-    }
 
     public Books() {
     }
 
-    public Books(Long ISBN, Long yearPublished, String title, Integer inSock) {
+    public Books(Long ISBN, Long yearPublished, String title, Integer inStock) {
         this.ISBN = ISBN;
         this.yearPublished = yearPublished;
         this.title = title;
-        this.inSock = inSock;
+        this.inStock = inStock;
     }
 
     public Long getISBN() {
@@ -66,12 +61,21 @@ public class Books {
         this.title = title;
     }
 
-    public Integer getInSock() {
-        return inSock;
+    public Integer getInStock() {
+        return inStock;
     }
 
-    public void setInSock(Integer inSock) {
-        this.inSock = inSock;
+    public void setInStock(Integer inStock) {
+
+        this.inStock = inStock;
+    }
+
+    public Authors getAuthors() {
+        return authors;
+    }
+
+    public void setAuthors(Authors authors) {
+        this.authors = authors;
     }
 
     @Override
@@ -80,7 +84,10 @@ public class Books {
                 "ISBN=" + ISBN +
                 ", yearPublished=" + yearPublished +
                 ", title='" + title + '\'' +
-                ", inSock=" + inSock +
+                ", inStock=" + inStock +
                 '}';
+
+
     }
 }
+
