@@ -14,8 +14,10 @@
     <name>Bookstore-back</name>
     <description>Bookstore-back</description>
     <properties>
-        <java.runtime.version>15</java.runtime.version>
-
+        <java.runtime.version>11</java.runtime.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
 
     <dependencies>
