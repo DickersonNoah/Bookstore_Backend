@@ -14,7 +14,7 @@
     <name>Bookstore-back</name>
     <description>Bookstore-back</description>
     <properties>
-        <java.runtime.version>11</java.runtime.version>
+        <java.runtime.version>15</java.runtime.version>
 
     </properties>
 
@@ -62,7 +62,15 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
-<!--            <plugin>-->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>11</source>
+                    <target>11</target>
+                </configuration>
+            </plugin>
+            <!--            <plugin>-->
 <!--&lt;!&ndash;                <groupId>org.apache.maven.plugins</groupId>&ndash;&gt;-->
 <!--&lt;!&ndash;                <artifactId>maven-compiler-plugin</artifactId>&ndash;&gt;-->
 <!--&lt;!&ndash;                <configuration>&ndash;&gt;-->
