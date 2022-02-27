@@ -14,7 +14,7 @@
     <name>Bookstore-back</name>
     <description>Bookstore-back</description>
     <properties>
-        <java.runtime.version>11</java.runtime.version>
+        <java.runtime.version>15</java.runtime.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
@@ -33,6 +33,7 @@
             <artifactId>postgresql</artifactId>
             <scope>runtime</scope>
         </dependency>
+
 
 
         <dependency>
