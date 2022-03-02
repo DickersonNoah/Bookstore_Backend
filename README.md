@@ -14,6 +14,12 @@
 
 <a name ="Technologies-Used"></a>
 ## 3. Technologies Used
+1.
+2. 
+3. [![postgresSQL](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true)](https://www.postgresql.org/)
+4.
+5.
+
 
 <a name = "Resources"></a>
 ## 4. Resources
