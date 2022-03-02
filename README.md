@@ -12,6 +12,17 @@
 <a name="WireFrame"></a>
 ## 2. End Points
 ![Screen Shot 2022-03-01 at 8 36 02 PM](https://user-images.githubusercontent.com/87401362/156278136-98decd1e-cc0f-4b32-a024-478c7e4a35e6.png)
+![Screen Shot 2022-03-01 at 8 39 51 PM](https://user-images.githubusercontent.com/87401362/156278586-dfd497fd-27f2-4256-bcdc-4bd813865958.png)
+![Screen Shot 2022-03-01 at 8 40 03 PM](https://user-images.githubusercontent.com/87401362/156278604-b709caa5-f8b2-46a3-9245-dcc61c7ea122.png)
+![Screen Shot 2022-03-01 at 8 40 14 PM](https://user-images.githubusercontent.com/87401362/156278614-8f5686df-652d-4b86-98f9-5e25d3d58d5a.png)
+![Screen Shot 2022-03-01 at 8 40 22 PM](https://user-images.githubusercontent.com/87401362/156278636-7d8099ae-c52b-4ae5-8ef5-6fd130b2a06f.png)
+![Screen Shot 2022-03-01 at 8 40 36 PM](https://user-images.githubusercontent.com/87401362/156278642-b8b2db70-f766-48fa-b4f1-69c9c005ab03.png)
+![Screen Shot 2022-03-01 at 8 41 06 PM](https://user-images.githubusercontent.com/87401362/156278659-4a2fd4f4-cc4e-49fd-8965-8abddb4cbb81.png)
+![Screen Shot 2022-03-01 at 8 40 57 PM](https://user-images.githubusercontent.com/87401362/156278673-c141f676-69da-4111-a291-9e787087c3ab.png)
+![Screen Shot 2022-03-01 at 8 41 38 PM](https://user-images.githubusercontent.com/87401362/156278687-110ff3ff-5e82-4a20-96d4-b7c211d37c51.png)
+![Screen Shot 2022-03-01 at 8 41 27 PM](https://user-images.githubusercontent.com/87401362/156278695-cca1018c-b5ed-49ba-b00d-82fa40c60149.png)
+![Screen Shot 2022-03-01 at 8 41 16 PM](https://user-images.githubusercontent.com/87401362/156278701-8ecde6ef-c656-409a-a10f-caef6b305775.png)
+![Screen Shot 2022-03-01 at 8 40 48 PM](https://user-images.githubusercontent.com/87401362/156278702-bbffd55a-dd74-4b60-a08b-65d6c9e06f4e.png)
 
 <a name ="Technologies-Used"></a>
 ## 3. Technologies Used
