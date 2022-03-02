@@ -61,4 +61,5 @@ Draw.io
 <a name = "WinsandStruggles"></a>
 ## 6. Wins and Struggles
 Wins - I have a greater understanding of the entire backend process and feel much more confidence with my abilities.
+
 Struggles - Deploying the app. 
