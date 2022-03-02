@@ -14,13 +14,11 @@
 
 <a name ="Technologies-Used"></a>
 ## 3. Technologies Used
-1. https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+1. <a href="https://www.flaticon.com/free-icons/java" title="java icons">Java icons created by Freepik - Flaticon</a>
 2. 
-3. [![postgresSQL](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true)](https://www.postgresql.org/)
-4.
+3. 
 5.
-6. [![Heroku](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true)](https://www.heroku.com/)
-
+6. 
 
 <a name = "Resources"></a>
 ## 4. Resources
