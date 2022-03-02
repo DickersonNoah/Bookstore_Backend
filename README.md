@@ -1,7 +1,7 @@
 # Bookstore_Backend
 ## Table of Content
 1. [ Description ](#desc)
-2. [ WireFrame ](#WireFrame)
+2. [ End Points ](#WireFrame)
 3. [ Technologies-Used ](#Technologies-Used)
 4. [ Resources ](#Resources)
 5. [ Wins and Struggles ](#WinsandStruggles)
@@ -10,7 +10,7 @@
 ## 1. Description
 
 <a name="WireFrame"></a>
-## 2. Wireframes
+## 2. End Points
 
 <a name ="Technologies-Used"></a>
 ## 3. Technologies Used
