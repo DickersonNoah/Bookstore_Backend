@@ -1,16 +1,22 @@
 # Bookstore_Backend
 ## Table of Content
 1. [ Description ](#desc)
-2. [ End Points ](#WireFrame)
-3. [ Technologies-Used ](#Technologies-Used)
-4. [ Resources ](#Resources)
-5. [ Wins and Struggles ](#WinsandStruggles)
+2. [ Entity Relationship Diagram ](#erd)
+3. [ End Points ](#WireFrame)
+4. [ Technologies-Used ](#Technologies-Used)
+5. [ Resources ](#Resources)
+6. [ Wins and Struggles ](#WinsandStruggles)
 
 <a name="desc"></a>
 ## 1. Description
 
+<a name="erd"></a>
+## 2. Entity Relationship Diagram
+![Erd for Bookapp](https://user-images.githubusercontent.com/87401362/156386393-637a6ddc-19fc-4a65-8552-d632e9f82fb8.png)
+
+
 <a name="WireFrame"></a>
-## 2. End Points
+## 3. End Points
 ![Screen Shot 2022-03-01 at 8 36 02 PM](https://user-images.githubusercontent.com/87401362/156278136-98decd1e-cc0f-4b32-a024-478c7e4a35e6.png)
 ![Screen Shot 2022-03-01 at 8 39 51 PM](https://user-images.githubusercontent.com/87401362/156278586-dfd497fd-27f2-4256-bcdc-4bd813865958.png)
 ![Screen Shot 2022-03-01 at 8 40 03 PM](https://user-images.githubusercontent.com/87401362/156278604-b709caa5-f8b2-46a3-9245-dcc61c7ea122.png)
@@ -25,7 +31,7 @@
 ![Screen Shot 2022-03-01 at 8 40 48 PM](https://user-images.githubusercontent.com/87401362/156278702-bbffd55a-dd74-4b60-a08b-65d6c9e06f4e.png)
 
 <a name ="Technologies-Used"></a>
-## 3. Technologies Used
+## 4. Technologies Used
 ![Screen Shot 2022-03-01 at 8 29 40 PM](https://user-images.githubusercontent.com/87401362/156277783-e3c8cdfd-151e-4c68-a09f-515afff86cb2.png)
 Java
 
@@ -45,7 +51,7 @@ Heroku
 Git
 
 <a name = "Resources"></a>
-## 4. Resources
+## 5. Resources
 
 <a name = "WinsandStruggles"></a>
-## 5. Wins and Struggles(in their own words)
+## 6. Wins and Struggles(in their own words)
