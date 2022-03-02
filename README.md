@@ -50,6 +50,9 @@ Heroku
 ![Screen Shot 2022-03-01 at 8 32 34 PM](https://user-images.githubusercontent.com/87401362/156277881-85484c89-58ef-4970-9b59-596535d84e11.png)
 Git
 
+![Screen Shot 2022-03-02 at 11 04 54 AM](https://user-images.githubusercontent.com/87401362/156400116-0cfa0fb0-9c76-4b3b-81af-b1d3384fb873.png)
+Draw.io
+
 <a name = "Resources"></a>
 ## 5. Resources
 
