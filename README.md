@@ -10,6 +10,8 @@
 <a name="desc"></a>
 ## 1. Description
 
+  This is the "back-end" portion of the capstone project for General Assembly Java immersive program. This spring boot application uses a postgres data base and is deployed on Heroku. This program implements full CRUD for two models author and book. I am very proud of this and have a sense of redemption for project 2. 
+
 <a name="erd"></a>
 ## 2. Entity Relationship Diagram
 ![Erd for Bookapp](https://user-images.githubusercontent.com/87401362/156386393-637a6ddc-19fc-4a65-8552-d632e9f82fb8.png)
@@ -57,4 +59,6 @@ Draw.io
 ## 5. Resources
 
 <a name = "WinsandStruggles"></a>
-## 6. Wins and Struggles(in their own words)
+## 6. Wins and Struggles
+Wins - I have a greater understanding of the entire backend process and feel much more confidence with my abilities.
+Struggles - Deploying the app. 
