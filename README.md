@@ -14,12 +14,12 @@
 
 <a name ="Technologies-Used"></a>
 ## 3. Technologies Used
-1.
+1. https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 2. 
 3. [![postgresSQL](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true)](https://www.postgresql.org/)
 4.
 5.
-6.[![Heroku](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true)](https://www.heroku.com/)
+6. [![Heroku](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true)](https://www.heroku.com/)
 
 
 <a name = "Resources"></a>
