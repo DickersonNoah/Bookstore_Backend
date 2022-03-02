@@ -6,7 +6,7 @@
 4. [ Resources ](#Resources)
 5. [ Wins and Struggles ](#WinsandStruggles)
 
-<a name="Description"></a>
+<a name="desc"></a>
 ## 1. Description
 
 <a name="WireFrame"></a>
